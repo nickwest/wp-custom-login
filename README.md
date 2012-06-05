@@ -1,4 +1,4 @@
-wp-custom-login
+Wordpress Custom Login
 ===============
 
 Custom login screen for Wordpress.
