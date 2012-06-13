@@ -12,7 +12,7 @@ Author URI: http://nickwest.me/
 function wp_custom_login() {
 	
 	// full plugin path
-	$pluginUrl = site_url('', 'https') . '/wp-content/mu-plugins/wp-custom-login/wp-custom-login.css';
+	$pluginUrl = site_url('', 'https') . '/wp-content/plugins/wp-custom-login/wp-custom-login.css';
 	
 	echo '<link rel="stylesheet" type="text/css" href="' . $pluginUrl . '" />';
 
